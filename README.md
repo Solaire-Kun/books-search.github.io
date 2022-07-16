@@ -85,7 +85,7 @@ The available terminal commands to use are: <br>
 <!-- LICENSE -->
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
 MIT License
 
 Copyright (c) 2022 Solaire-Kun
